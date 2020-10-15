@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<quiz>
+<question type="truefalse">
+	<name>
+		<text>Question 1</text>
+	</name>
+	<questiontext format="html">
+		<text>Les petit poisson ?</text>
+	</questiontext>
+	<answer fraction="100">
+		<text>Rouge</text>
+		<feedback><text>Correct!</text></feedback>
+	</answer>
+	<answer fraction="100">
+		<text>Vert</text>
+		<feedback><text>FAUX</text></feedback>
+	</answer>
+</question>
+<question type="truefalse">
+	<name>
+		<text>Question 1</text>
+	</name>
+	<questiontext format="html">
+		<text>Les petit pois sont ?</text>
+	</questiontext>
+	<answer fraction="100">
+		<text>Rouge</text>
+		<feedback><text>FAUX</text></feedback>
+	</answer>
+	<answer fraction="100">
+		<text>Vert</text>
+		<feedback><text>Correct!</text></feedback>
+	</answer>
+</question>
+</quiz>
